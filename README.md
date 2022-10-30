@@ -1,6 +1,6 @@
 # Roll-a-ball
 
-El juego consiste en primer lugar de consequir los puntos y en segundo de llegar al portal
+El juego consiste en primer lugar de conseguir los puntos para desbloquear la barrera y en segundo de llegar al portal.
 
 ### Prerequisites
 
@@ -8,12 +8,12 @@ Unity , git ,Visual Studio
 
 ## Built With
 
-Unity and Visual Studio
+Unity and Visual Studio.
 
 ## Versioning
-V.1.0
+V.1.0.
 ## Author
-Samuel
+Samuel.
 
 ## License
 
