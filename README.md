@@ -1,6 +1,6 @@
 # Roll-a-ball
 
-El juego consiste en primer lugar de conseguir los puntos para desbloquear la barrera y en segundo de llegar al portal.
+El juego consiste en primer lugar de conseguir los puntos para desbloquear la barrera y en segundo lugar de llegar al portal.
 
 ### Prerequisites
 
