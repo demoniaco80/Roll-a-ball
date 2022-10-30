@@ -4,9 +4,7 @@ El juego consiste en primer lugar de consequir los puntos y en segundo de llegar
 
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-
-Unity
+Unity , git ,Visual Studio
 
 ## Built With
 
