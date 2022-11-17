@@ -1,5 +1,5 @@
 # Roll-a-ball
-
+The game consists firstly of getting the points to unlock the barrier and secondly of reaching the portal.
 El juego consiste en primer lugar de conseguir los puntos para desbloquear la barrera y en segundo lugar de llegar al portal.
 
 ### Prerequisites
